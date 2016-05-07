@@ -1,3 +1,3 @@
 <?
-echo 'It`s TestRepository ^_^';
+echo 'TestRepository';
 ?>
